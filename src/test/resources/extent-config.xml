@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+  <configuration>
+    <reportName>Automation Test Execution Report</reportName>
+    <documentTitle>Execution Results</documentTitle>
+    <theme>dark</theme>
+    <encoding>utf-8</encoding>
+  </configuration>
+</extentreports>
