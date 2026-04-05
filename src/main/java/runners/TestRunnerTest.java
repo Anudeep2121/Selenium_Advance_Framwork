@@ -11,5 +11,5 @@ import io.cucumber.testng.CucumberOptions;
         "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
     }
 )
-public class TestRunner extends AbstractTestNGCucumberTests {
+public class TestRunnerTest extends AbstractTestNGCucumberTests {
 }
